@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top">
+<td width="100" valign="top">
 
 # Hi, I'm Aashna 👋
 
@@ -15,15 +15,15 @@ I am currently pursuing my Bachelor of Engineering in Computer Science and Data 
 
 ### Connect with me
 
-<a href="mailto:aashnaferrao@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" valign="left"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:aashnaferrao@gmail.com" valign="middle">aashnaferrao@gmail.com</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aashnaferrao">
   <img src="https://skillicons.dev/icons?i=linkedin" valign="middle"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aashnaferrao@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" valign="middle"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:aashnaferrao@gmail.com" valign="middle">aashnaferrao@gmail.com</a>
 
 
 </td>
