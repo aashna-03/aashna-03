@@ -6,10 +6,12 @@ I am currently pursuing my Bachelor of Engineering in Computer Science and Data 
 🎓 St. Joseph Engineering College &nbsp;|&nbsp; 📍 Mangaluru, India
 
 
+
 ### I build cool stuff...
 > 🤖 Agentic LLM Systems &nbsp;|&nbsp; 👁️ Computer Vision &nbsp;|&nbsp; 📄 OCR &nbsp;|&nbsp; 🔧 LoRA Fine-tuning &nbsp;|&nbsp; 🔍 RAG
 
 
+-----
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/aashnaferrao">
@@ -20,5 +22,5 @@ I am currently pursuing my Bachelor of Engineering in Computer Science and Data 
   <img src="https://skillicons.dev/icons?i=gmail" valign="middle"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:aashnaferrao@gmail.com" valign="middle">aashnaferrao@gmail.com</a>
+<a href="mailto:aashnaferrao@gmail.com" valign="middle">[aashnaferrao@gmail.com]</a>
 
