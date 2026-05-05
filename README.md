@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="70%" valign="top">
+<td valign="top">
 
 # Hi, I'm Aashna 👋
 
@@ -21,7 +21,7 @@ I am currently pursuing my Bachelor of Engineering in Computer Science and Data 
 &nbsp;
 <a href="mailto:aashnaferrao@gmail.com" valign="middle">aashnaferrao@gmail.com</a>
 
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/aashnaferrao">
   <img src="https://skillicons.dev/icons?i=linkedin" valign="middle"/>
