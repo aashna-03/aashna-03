@@ -21,6 +21,6 @@ I am currently pursuing my Bachelor of Engineering in Computer Science and Data 
 <a href="mailto:aashnaferrao@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" valign="middle"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:aashnaferrao@gmail.com" valign="middle">[aashnaferrao@gmail.com]</a>
 
