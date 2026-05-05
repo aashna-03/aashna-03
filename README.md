@@ -1,6 +1,3 @@
-<table>
-<tr>
-<td width="100" valign="top">
 
 # Hi, I'm Aashna 👋
 
@@ -25,7 +22,3 @@ I am currently pursuing my Bachelor of Engineering in Computer Science and Data 
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:aashnaferrao@gmail.com" valign="middle">aashnaferrao@gmail.com</a>
 
-
-</td>
-</tr>
-</table>
