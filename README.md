@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=BA55D3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aashna+%F0%9F%91%8B alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&size=38&pause=1000&color=BA55D3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aashna+%F0%9F%91%8B alt="Typing SVG" />
 </h1>
 
 I am currently pursuing my Bachelor of Engineering in Computer Science and Data Science
