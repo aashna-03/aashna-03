@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNuZmZ3ZjdpMWcydmlnNXpvb2x2YWJ5d3VicW44dWc2czFxa2lrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="800" />
+</p>
 # Hi, I'm Aashna 👋
 
 I am currently pursuing my Bachelor of Engineering in Computer Science and Data Science
