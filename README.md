@@ -8,10 +8,6 @@
 
 I am currently pursuing my Bachelor of Engineering in Computer Science and Data Science
 
-🎓 St. Joseph Engineering College &nbsp;|&nbsp; 📍 Mangaluru, India
-
-
-
 ### I build cool stuff...
 > 🤖 Agentic LLM Systems &nbsp;|&nbsp; 👁️ Computer Vision &nbsp;|&nbsp; 📄 OCR &nbsp;|&nbsp; 🔧 LoRA Fine-tuning &nbsp;|&nbsp; 🔍 RAG
 
